@@ -1,0 +1,17 @@
+[
+  {
+    "specie": "junimo",
+    "name": "Álvaro",
+    "color": "pink"
+  },
+  {
+    "specie": "chicken",
+    "name": "Sara",
+    "color": "blue adult"
+  },
+  {
+    "specie": "duck",
+    "name": "Sara",
+    "color": ""
+  }
+]
